@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="640" viewBox="0 0 512 640">
+  <rect width="512" height="640" fill="white"/>
+
+  <!-- Modern shield -->
+  <path d="
+    M128 64
+    H384
+    V248
+    C384 330 320 392 256 432
+    C192 392 128 330 128 248
+    Z"
+    fill="black"/>
+
+  <!-- Stylized M using negative space -->
+  <path d="
+    M192 128
+    V320
+    H224
+    V200
+    L256 240
+    L288 200
+    V320
+    H320
+    V128
+    H288
+    L256 184
+    L224 128
+    Z"
+    fill="white"/>
+
+  <!-- Text -->
+  <text x="256" y="520"
+        text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        font-size="68"
+        font-weight="700"
+        fill="black"
+        letter-spacing="3">MOBILE</text>
+
+  <text x="256" y="600"
+        text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        font-size="68"
+        font-weight="700"
+        fill="black"
+        letter-spacing="3">SOCCER</text>
+</svg>
